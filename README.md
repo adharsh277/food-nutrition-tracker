@@ -1,8 +1,9 @@
-# 🍎 Food Nutrition Tracker
+# 🍎 Food Nutrition Tracker 
 
 A cross-platform Food Nutrition Tracking application built using **Expo (React Native)**.  
 The app allows users to recognize food items, track nutrition, and monitor calorie intake.  
 It supports **Android, iOS (Expo Go)** and **Web deployment via Vercel**.
+
 ---
 ## 🚀 Features
 
