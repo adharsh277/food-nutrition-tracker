@@ -5,7 +5,6 @@ The app allows users to recognize food items, track nutrition, and monitor calor
 It supports **Android, iOS (Expo Go)** and **Web deployment via Vercel**.
 
 ---
-
 ## 🚀 Features
 
 - 📷 Food Recognition
