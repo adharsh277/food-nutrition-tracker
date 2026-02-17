@@ -40,17 +40,17 @@ Install dependencies:
 
 npm install
 
-▶️ Run Locally
+## Run Locally
 📱 Run on Mobile (Expo Go)
 npx expo start
 
 
 Scan the QR code using Expo Go app.
 
-🌐 Run on Web
+## Run on Web
 npx expo start --web
 
-🌍 Production Web Build
+##  Production Web Build
 
 Generate static web build:
 
@@ -61,7 +61,3 @@ This creates:
 
 dist/
 
-
-## 📦 Project Structure
-
-****
