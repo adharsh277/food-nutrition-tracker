@@ -7,6 +7,7 @@ The app combines camera-based food analysis, personalized goal tracking, and bac
 
 Food Nutrition Tracker helps users:
 
+
 - Scan food using camera or gallery images
 - Estimate nutrition values with AI
 - Track meals, calories, macros, water intake, and steps
