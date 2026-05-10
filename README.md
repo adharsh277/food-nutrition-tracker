@@ -17,6 +17,7 @@ Food Nutrition Tracker helps users:
 
 ## Architecture Overview
 
+
 - Frontend: Expo + React Native app for mobile and web
 - Backend: Express.js REST API for auth, profile, logs, and recommendations
 - Database: MongoDB with Mongoose models
