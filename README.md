@@ -51,6 +51,8 @@ Food Nutrition Tracker helps users:
 
 - MongoDB
 - Mongoose ODM
+
+
 - Models: User, DailyLog, FoodItem
 
 ### Cloud and External Services
