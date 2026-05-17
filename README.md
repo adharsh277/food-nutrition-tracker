@@ -5,7 +5,6 @@ The app combines camera-based food analysis, personalized goal tracking, and bac
 
 ## Project Summary
 
-
 Food Nutrition Tracker helps users:
 
 - Scan food using camera or gallery images
