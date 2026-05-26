@@ -3,7 +3,6 @@
 A full-stack, cross-platform nutrition tracking app built for Android, iOS, and Web.
 The app combines camera-based food analysis, personalized goal tracking, and backend-powered nutrition analytics.
 
-
 ## Project Summary
 
 Food Nutrition Tracker helps users:
